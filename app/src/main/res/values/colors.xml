@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#008B8B</color>
+    <color name="colorPrimaryDark">#20B2AA</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorButton">#ffffff</color>
+
+    <color name="colorTela">#008B8B</color>
+    <color name="colorTela1">#20B2AA</color>
+
+</resources>

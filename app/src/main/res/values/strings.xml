@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+
+
+    <!-- ActionBar -->
+    <string name="menu_item_salvar">Salvar</string>
+    <string name="menu_item_excluir">Excluir</string>
+    <string name="menu_item_cancelar">Cancelar</string>
+    <string name="titulo_actionbar_list">Produtos</string>
+
+    <!-- List e Inputs xml-->
+    <string name="tela1_meusprodutos">Meus Drinks</string>
+    <string name="tela1_foto">Foto do Drink</string>
+    <string name="tela1_nome">Nome do Drink </string>
+    <string name="tela1_hint_nome">  Digite o nome do drink</string>
+    <string name="tela1_descricao">Descrição </string>
+    <string name="tela1_hint_descricao"> Digite a descrição</string>
+    <string name="principal">Principal</string>
+    <string name="mapa">Mapa</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
